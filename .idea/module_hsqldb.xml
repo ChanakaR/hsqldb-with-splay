@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_hsqldb" default="compile.module.hsqldb">
+  <dirname property="module.hsqldb.basedir" file="${ant.file.module_hsqldb}"/>
+  
+  <property name="module.jdk.home.hsqldb" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.hsqldb" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.hsqldb" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.hsqldb" value="-encoding UTF-8 -source 8 -target 8 ${compiler.args}"/>
+  
+  <property name="hsqldb.output.dir" value="undefined"/>
+  <property name="hsqldb.testoutput.dir" value="undefined"/>
+  
+  <path id="hsqldb.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="hsqldb.module.production.classpath">
+    <path refid="${module.jdk.classpath.hsqldb}"/>
+  </path>
+  
+  <path id="hsqldb.runtime.production.module.classpath"/>
+  
+  <path id="hsqldb.module.classpath">
+    <path refid="${module.jdk.classpath.hsqldb}"/>
+  </path>
+  
+  <path id="hsqldb.runtime.module.classpath"/>
+  
+  
+  <patternset id="excluded.from.module.hsqldb">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.hsqldb">
+    <patternset refid="excluded.from.module.hsqldb"/>
+  </patternset>
+  
+  
+  <target name="compile.module.hsqldb" depends="compile.module.hsqldb.production,compile.module.hsqldb.tests" description="Compile module hsqldb"/>
+  
+  <target name="compile.module.hsqldb.production" depends="register.custom.compilers" description="Compile module hsqldb; production classes"/>
+  
+  <target name="compile.module.hsqldb.tests" depends="register.custom.compilers,compile.module.hsqldb.production" description="compile module hsqldb; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.hsqldb" description="cleanup module">
+    <delete dir="${hsqldb.output.dir}"/>
+    <delete dir="${hsqldb.testoutput.dir}"/>
+  </target>
+</project>
