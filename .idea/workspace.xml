@@ -23,7 +23,70 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="20550">
               <caret line="1500" column="44" lean-forward="false" selection-start-line="1500" selection-start-column="44" selection-end-line="1500" selection-end-column="44" />
-              <folding />
+              <folding>
+                <element signature="e#0#85683#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#6818#6819#0" expanded="false" />
+                <element signature="e#6858#6859#0" expanded="false" />
+                <element signature="e#29245#29246#0" expanded="false" />
+                <element signature="e#29317#29318#0" expanded="false" />
+                <element signature="e#29359#29360#0" expanded="false" />
+                <element signature="e#29396#29397#0" expanded="false" />
+                <element signature="e#29438#29439#0" expanded="false" />
+                <element signature="e#29487#29488#0" expanded="false" />
+                <element signature="e#34244#34245#0" expanded="false" />
+                <element signature="e#34282#34283#0" expanded="false" />
+                <element signature="e#39734#39735#0" expanded="false" />
+                <element signature="e#39763#39764#0" expanded="false" />
+                <element signature="e#39797#39798#0" expanded="false" />
+                <element signature="e#39834#39835#0" expanded="false" />
+                <element signature="e#39865#39866#0" expanded="false" />
+                <element signature="e#39899#39900#0" expanded="false" />
+                <element signature="e#39935#39936#0" expanded="false" />
+                <element signature="e#39974#39975#0" expanded="false" />
+                <element signature="e#40468#40469#0" expanded="false" />
+                <element signature="e#40508#40509#0" expanded="false" />
+                <element signature="e#40544#40545#0" expanded="false" />
+                <element signature="e#40583#40584#0" expanded="false" />
+                <element signature="e#40626#40627#0" expanded="false" />
+                <element signature="e#40674#40675#0" expanded="false" />
+                <element signature="e#40708#40709#0" expanded="false" />
+                <element signature="e#40747#40748#0" expanded="false" />
+                <element signature="e#40798#40799#0" expanded="false" />
+                <element signature="e#40867#40868#0" expanded="false" />
+                <element signature="e#41522#41523#0" expanded="false" />
+                <element signature="e#41562#41563#0" expanded="false" />
+                <element signature="e#42551#42552#0" expanded="false" />
+                <element signature="e#42592#42593#0" expanded="false" />
+                <element signature="e#42631#42632#0" expanded="false" />
+                <element signature="e#42671#42672#0" expanded="false" />
+                <element signature="e#42720#42721#0" expanded="false" />
+                <element signature="e#42761#42762#0" expanded="false" />
+                <element signature="e#43330#43331#0" expanded="false" />
+                <element signature="e#43376#43377#0" expanded="false" />
+                <element signature="e#43803#43804#0" expanded="false" />
+                <element signature="e#43843#43844#0" expanded="false" />
+                <element signature="e#43887#43888#0" expanded="false" />
+                <element signature="e#43931#43932#0" expanded="false" />
+                <element signature="e#43966#43967#0" expanded="false" />
+                <element signature="e#44009#44010#0" expanded="false" />
+                <element signature="e#44340#44341#0" expanded="false" />
+                <element signature="e#44379#44380#0" expanded="false" />
+                <element signature="e#44784#44785#0" expanded="false" />
+                <element signature="e#44817#44818#0" expanded="false" />
+                <element signature="e#44860#44861#0" expanded="false" />
+                <element signature="e#44901#44902#0" expanded="false" />
+                <element signature="e#44947#44948#0" expanded="false" />
+                <element signature="e#44991#44992#0" expanded="false" />
+                <element signature="e#45030#45031#0" expanded="false" />
+                <element signature="e#45071#45072#0" expanded="false" />
+                <element signature="e#45115#45116#0" expanded="false" />
+                <element signature="e#45155#45156#0" expanded="false" />
+                <element signature="e#45710#45711#0" expanded="false" />
+                <element signature="e#45749#45750#0" expanded="false" />
+                <element signature="e#85643#85644#0" expanded="false" />
+                <element signature="e#85679#85680#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,31 +103,165 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Table.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Table.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/hsqldb/Table.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
+            <state relative-caret-position="906">
               <caret line="1682" column="16" lean-forward="false" selection-start-line="1682" selection-start-column="16" selection-end-line="1682" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParserDDL.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/hsqldb/ParserDDL.java">
+      <file leaf-file-name="Index.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/hsqldb/index/Index.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+            <state relative-caret-position="-2145">
+              <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#8022#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexAVLMemory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/hsqldb/index/IndexAVLMemory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="95" column="20" lean-forward="true" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TableWorks.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/hsqldb/TableWorks.java">
+      <file leaf-file-name="IndexSPlay.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/hsqldb/indexnew/IndexSPlay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7635">
-              <caret line="551" column="45" lean-forward="false" selection-start-line="551" selection-start-column="45" selection-end-line="551" selection-end-column="45" />
+            <state relative-caret-position="955">
+              <caret line="255" column="0" lean-forward="false" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#782#783#0" expanded="true" />
+                <element signature="e#806#807#0" expanded="true" />
+                <element signature="e#853#854#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
+                <element signature="e#932#933#0" expanded="true" />
+                <element signature="e#960#961#0" expanded="true" />
+                <element signature="e#1007#1008#0" expanded="true" />
+                <element signature="e#1040#1041#0" expanded="true" />
+                <element signature="e#1092#1093#0" expanded="true" />
+                <element signature="e#1126#1127#0" expanded="true" />
+                <element signature="e#1180#1181#0" expanded="true" />
+                <element signature="e#1217#1218#0" expanded="true" />
+                <element signature="e#1273#1274#0" expanded="true" />
+                <element signature="e#1306#1307#0" expanded="true" />
+                <element signature="e#1359#1360#0" expanded="true" />
+                <element signature="e#1383#1384#0" expanded="true" />
+                <element signature="e#1431#1432#0" expanded="true" />
+                <element signature="e#1459#1460#0" expanded="true" />
+                <element signature="e#1574#1575#0" expanded="true" />
+                <element signature="e#1601#1602#0" expanded="true" />
+                <element signature="e#1723#1724#0" expanded="true" />
+                <element signature="e#1751#1752#0" expanded="true" />
+                <element signature="e#1829#1830#0" expanded="true" />
+                <element signature="e#1853#1854#0" expanded="true" />
+                <element signature="e#1920#1921#0" expanded="true" />
+                <element signature="e#1944#1945#0" expanded="true" />
+                <element signature="e#2032#2033#0" expanded="true" />
+                <element signature="e#2068#2069#0" expanded="true" />
+                <element signature="e#2154#2155#0" expanded="true" />
+                <element signature="e#2178#2179#0" expanded="true" />
+                <element signature="e#2245#2246#0" expanded="true" />
+                <element signature="e#2273#2274#0" expanded="true" />
+                <element signature="e#2356#2357#0" expanded="true" />
+                <element signature="e#2380#2381#0" expanded="true" />
+                <element signature="e#3058#3059#0" expanded="true" />
+                <element signature="e#3085#3086#0" expanded="true" />
+                <element signature="e#3340#3341#0" expanded="true" />
+                <element signature="e#3367#3368#0" expanded="true" />
+                <element signature="e#3439#3440#0" expanded="true" />
+                <element signature="e#3466#3467#0" expanded="true" />
+                <element signature="e#3875#3876#0" expanded="true" />
+                <element signature="e#3899#3900#0" expanded="true" />
+                <element signature="e#4158#4159#0" expanded="true" />
+                <element signature="e#4182#4183#0" expanded="true" />
+                <element signature="e#4266#4267#0" expanded="true" />
+                <element signature="e#4290#4291#0" expanded="true" />
+                <element signature="e#4332#4333#0" expanded="true" />
+                <element signature="e#4356#4357#0" expanded="true" />
+                <element signature="e#4419#4420#0" expanded="true" />
+                <element signature="e#4446#4447#0" expanded="true" />
+                <element signature="e#4515#4516#0" expanded="true" />
+                <element signature="e#4542#4543#0" expanded="true" />
+                <element signature="e#4612#4613#0" expanded="true" />
+                <element signature="e#4639#4640#0" expanded="true" />
+                <element signature="e#4686#4687#0" expanded="true" />
+                <element signature="e#4713#4714#0" expanded="true" />
+                <element signature="e#4772#4773#0" expanded="true" />
+                <element signature="e#4799#4800#0" expanded="true" />
+                <element signature="e#4858#4859#0" expanded="true" />
+                <element signature="e#4885#4886#0" expanded="true" />
+                <element signature="e#5021#5022#0" expanded="true" />
+                <element signature="e#5048#5049#0" expanded="true" />
+                <element signature="e#5102#5103#0" expanded="true" />
+                <element signature="e#5126#5127#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NodeSPlay.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/hsqldb/indexnew/NodeSPlay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+              <folding>
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="method#updateAccessCount#0;class#NodeSPlay#0" expanded="false" />
+                <element signature="method#setStorageSize#0;class#NodeSPlay#0" expanded="false" />
+                <element signature="method#setPos#0;class#NodeSPlay#0" expanded="false" />
+                <element signature="method#setChanged#0;class#NodeSPlay#0" expanded="false" />
+                <element signature="method#setInMemory#0;class#NodeSPlay#0" expanded="false" />
+                <element signature="method#restore#0;class#NodeSPlay#0" expanded="false" />
+                <element signature="method#destroy#0;class#NodeSPlay#0" expanded="false" />
+                <element signature="method#write#0;class#NodeSPlay#0" expanded="false" />
+                <element signature="method#write#1;class#NodeSPlay#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NodeAVL.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/hsqldb/index/NodeAVL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="251" column="5" lean-forward="true" selection-start-line="245" selection-start-column="4" selection-end-line="251" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Row.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/hsqldb/Row.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="78" column="46" lean-forward="false" selection-start-line="78" selection-start-column="46" selection-end-line="78" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -72,11 +269,41 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>main</find>
       <find>IndexAVL</find>
       <find>Index</find>
+      <find>setInMem</find>
+      <find>setInMemory</find>
+      <find>getDefaultCapacity</find>
+      <find>read</find>
+      <find>write</find>
+      <find>getPos</find>
+      <find>getRow</find>
+      <find>getAccessCount</find>
+      <find>setStorageSize</find>
+      <find>getStorageSize</find>
+      <find>isInvariable</find>
+      <find>isBlock</find>
+      <find>setPos</find>
+      <find>isNew</find>
+      <find>hasChanged</find>
+      <find>setChanged</find>
+      <find>isKeepInMemory</find>
+      <find>keepInMemory</find>
+      <find>isInMemory</find>
+      <find>restore</find>
+      <find>destroy</find>
+      <find>getRealSize</find>
+      <find>isMemory</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src</dir>
@@ -93,6 +320,8 @@
         <option value="$PROJECT_DIR$/src/org/hsqldb/persist/BitMapCachedObject.java" />
         <option value="$PROJECT_DIR$/src/org/hsqldb/dbinfo/DatabaseInformationFull.java" />
         <option value="$PROJECT_DIR$/src/org/hsqldb/TableBase.java" />
+        <option value="$PROJECT_DIR$/src/org/hsqldb/indexnew/IndexSPlay.java" />
+        <option value="$PROJECT_DIR$/src/org/hsqldb/indexnew/NodeSPlay.java" />
       </list>
     </option>
   </component>
@@ -138,49 +367,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tmp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="switchedsrc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="hsqldb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hsqldb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hsqldb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tmp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="switchedsrc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hsqldb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -195,6 +386,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hsqldb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="indexnew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hsqldb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hsqldb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hsqldb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -212,6 +433,7 @@
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="hsqldb" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -446,7 +668,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1366" height="707" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -459,7 +681,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2847432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -513,7 +735,51 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/org/hsqldb/index/NodeAVL.java</url>
+          <line>109</line>
+          <properties field="nLeft" class="org.hsqldb.index.NodeAVL" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/org/hsqldb/index/NodeAVL.java</url>
+          <line>110</line>
+          <properties field="nRight" class="org.hsqldb.index.NodeAVL" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/org/hsqldb/index/NodeAVL.java</url>
+          <line>112</line>
+          <properties field="row" class="org.hsqldb.index.NodeAVL" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/org/hsqldb/index/NodeAVL.java</url>
+          <line>114</line>
+          <properties class="org.hsqldb.index.NodeAVL" method="&lt;init&gt;" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/org/hsqldb/index/NodeAVL.java</url>
+          <line>118</line>
+          <properties class="org.hsqldb.index.NodeAVL" method="&lt;init&gt;" />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/org/hsqldb/index/NodeAVL.java</url>
+          <line>122</line>
+          <properties class="org.hsqldb.index.NodeAVL" method="delete" />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/hsqldb/index/NodeAVL.java</url>
+          <line>119</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -522,27 +788,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/index/NodeAVL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="102" column="17" lean-forward="false" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/RowAVL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="92" column="13" lean-forward="false" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/Database.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2070">
-          <caret line="138" column="51" lean-forward="false" selection-start-line="138" selection-start-column="51" selection-end-line="138" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/hsqldb/DatabaseManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -742,27 +987,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/index/NodeAVL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="102" column="17" lean-forward="false" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/hsqldb/index/IndexAVL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="710">
           <caret line="1903" column="0" lean-forward="false" selection-start-line="1903" selection-start-column="0" selection-end-line="1903" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/index/Index.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#8022#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -807,13 +1035,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3573">
           <caret line="59" column="13" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/index/IndexAVLMemory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="95" column="20" lean-forward="true" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1007,14 +1228,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/TableWorks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7635">
-          <caret line="551" column="45" lean-forward="false" selection-start-line="551" selection-start-column="45" selection-end-line="551" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/hsqldb/TableBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5100">
@@ -1037,15 +1250,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20550">
           <caret line="1500" column="44" lean-forward="false" selection-start-line="1500" selection-start-column="44" selection-end-line="1500" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/ParserDDL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
-          <folding />
+          <folding>
+            <element signature="e#0#85683#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6818#6819#0" expanded="false" />
+            <element signature="e#6858#6859#0" expanded="false" />
+            <element signature="e#29245#29246#0" expanded="false" />
+            <element signature="e#29317#29318#0" expanded="false" />
+            <element signature="e#29359#29360#0" expanded="false" />
+            <element signature="e#29396#29397#0" expanded="false" />
+            <element signature="e#29438#29439#0" expanded="false" />
+            <element signature="e#29487#29488#0" expanded="false" />
+            <element signature="e#34244#34245#0" expanded="false" />
+            <element signature="e#34282#34283#0" expanded="false" />
+            <element signature="e#39734#39735#0" expanded="false" />
+            <element signature="e#39763#39764#0" expanded="false" />
+            <element signature="e#39797#39798#0" expanded="false" />
+            <element signature="e#39834#39835#0" expanded="false" />
+            <element signature="e#39865#39866#0" expanded="false" />
+            <element signature="e#39899#39900#0" expanded="false" />
+            <element signature="e#39935#39936#0" expanded="false" />
+            <element signature="e#39974#39975#0" expanded="false" />
+            <element signature="e#40468#40469#0" expanded="false" />
+            <element signature="e#40508#40509#0" expanded="false" />
+            <element signature="e#40544#40545#0" expanded="false" />
+            <element signature="e#40583#40584#0" expanded="false" />
+            <element signature="e#40626#40627#0" expanded="false" />
+            <element signature="e#40674#40675#0" expanded="false" />
+            <element signature="e#40708#40709#0" expanded="false" />
+            <element signature="e#40747#40748#0" expanded="false" />
+            <element signature="e#40798#40799#0" expanded="false" />
+            <element signature="e#40867#40868#0" expanded="false" />
+            <element signature="e#41522#41523#0" expanded="false" />
+            <element signature="e#41562#41563#0" expanded="false" />
+            <element signature="e#42551#42552#0" expanded="false" />
+            <element signature="e#42592#42593#0" expanded="false" />
+            <element signature="e#42631#42632#0" expanded="false" />
+            <element signature="e#42671#42672#0" expanded="false" />
+            <element signature="e#42720#42721#0" expanded="false" />
+            <element signature="e#42761#42762#0" expanded="false" />
+            <element signature="e#43330#43331#0" expanded="false" />
+            <element signature="e#43376#43377#0" expanded="false" />
+            <element signature="e#43803#43804#0" expanded="false" />
+            <element signature="e#43843#43844#0" expanded="false" />
+            <element signature="e#43887#43888#0" expanded="false" />
+            <element signature="e#43931#43932#0" expanded="false" />
+            <element signature="e#43966#43967#0" expanded="false" />
+            <element signature="e#44009#44010#0" expanded="false" />
+            <element signature="e#44340#44341#0" expanded="false" />
+            <element signature="e#44379#44380#0" expanded="false" />
+            <element signature="e#44784#44785#0" expanded="false" />
+            <element signature="e#44817#44818#0" expanded="false" />
+            <element signature="e#44860#44861#0" expanded="false" />
+            <element signature="e#44901#44902#0" expanded="false" />
+            <element signature="e#44947#44948#0" expanded="false" />
+            <element signature="e#44991#44992#0" expanded="false" />
+            <element signature="e#45030#45031#0" expanded="false" />
+            <element signature="e#45071#45072#0" expanded="false" />
+            <element signature="e#45115#45116#0" expanded="false" />
+            <element signature="e#45155#45156#0" expanded="false" />
+            <element signature="e#45710#45711#0" expanded="false" />
+            <element signature="e#45749#45750#0" expanded="false" />
+            <element signature="e#85643#85644#0" expanded="false" />
+            <element signature="e#85679#85680#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1059,9 +1327,167 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/hsqldb/Table.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
+        <state relative-caret-position="906">
           <caret line="1682" column="16" lean-forward="false" selection-start-line="1682" selection-start-column="16" selection-end-line="1682" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/index/Index.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2145">
+          <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#8022#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/ParserDDL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/TableWorks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="551" column="45" lean-forward="false" selection-start-line="551" selection-start-column="45" selection-end-line="551" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/index/IndexAVLMemory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="95" column="20" lean-forward="true" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/Row.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="78" column="46" lean-forward="false" selection-start-line="78" selection-start-column="46" selection-end-line="78" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/indexnew/IndexSPlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="955">
+          <caret line="255" column="0" lean-forward="false" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#1007#1008#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1217#1218#0" expanded="true" />
+            <element signature="e#1273#1274#0" expanded="true" />
+            <element signature="e#1306#1307#0" expanded="true" />
+            <element signature="e#1359#1360#0" expanded="true" />
+            <element signature="e#1383#1384#0" expanded="true" />
+            <element signature="e#1431#1432#0" expanded="true" />
+            <element signature="e#1459#1460#0" expanded="true" />
+            <element signature="e#1574#1575#0" expanded="true" />
+            <element signature="e#1601#1602#0" expanded="true" />
+            <element signature="e#1723#1724#0" expanded="true" />
+            <element signature="e#1751#1752#0" expanded="true" />
+            <element signature="e#1829#1830#0" expanded="true" />
+            <element signature="e#1853#1854#0" expanded="true" />
+            <element signature="e#1920#1921#0" expanded="true" />
+            <element signature="e#1944#1945#0" expanded="true" />
+            <element signature="e#2032#2033#0" expanded="true" />
+            <element signature="e#2068#2069#0" expanded="true" />
+            <element signature="e#2154#2155#0" expanded="true" />
+            <element signature="e#2178#2179#0" expanded="true" />
+            <element signature="e#2245#2246#0" expanded="true" />
+            <element signature="e#2273#2274#0" expanded="true" />
+            <element signature="e#2356#2357#0" expanded="true" />
+            <element signature="e#2380#2381#0" expanded="true" />
+            <element signature="e#3058#3059#0" expanded="true" />
+            <element signature="e#3085#3086#0" expanded="true" />
+            <element signature="e#3340#3341#0" expanded="true" />
+            <element signature="e#3367#3368#0" expanded="true" />
+            <element signature="e#3439#3440#0" expanded="true" />
+            <element signature="e#3466#3467#0" expanded="true" />
+            <element signature="e#3875#3876#0" expanded="true" />
+            <element signature="e#3899#3900#0" expanded="true" />
+            <element signature="e#4158#4159#0" expanded="true" />
+            <element signature="e#4182#4183#0" expanded="true" />
+            <element signature="e#4266#4267#0" expanded="true" />
+            <element signature="e#4290#4291#0" expanded="true" />
+            <element signature="e#4332#4333#0" expanded="true" />
+            <element signature="e#4356#4357#0" expanded="true" />
+            <element signature="e#4419#4420#0" expanded="true" />
+            <element signature="e#4446#4447#0" expanded="true" />
+            <element signature="e#4515#4516#0" expanded="true" />
+            <element signature="e#4542#4543#0" expanded="true" />
+            <element signature="e#4612#4613#0" expanded="true" />
+            <element signature="e#4639#4640#0" expanded="true" />
+            <element signature="e#4686#4687#0" expanded="true" />
+            <element signature="e#4713#4714#0" expanded="true" />
+            <element signature="e#4772#4773#0" expanded="true" />
+            <element signature="e#4799#4800#0" expanded="true" />
+            <element signature="e#4858#4859#0" expanded="true" />
+            <element signature="e#4885#4886#0" expanded="true" />
+            <element signature="e#5021#5022#0" expanded="true" />
+            <element signature="e#5048#5049#0" expanded="true" />
+            <element signature="e#5102#5103#0" expanded="true" />
+            <element signature="e#5126#5127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/index/NodeAVL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="251" column="5" lean-forward="true" selection-start-line="245" selection-start-column="4" selection-end-line="251" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/hsqldb/indexnew/NodeSPlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding>
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="method#updateAccessCount#0;class#NodeSPlay#0" expanded="false" />
+            <element signature="method#setStorageSize#0;class#NodeSPlay#0" expanded="false" />
+            <element signature="method#setPos#0;class#NodeSPlay#0" expanded="false" />
+            <element signature="method#setChanged#0;class#NodeSPlay#0" expanded="false" />
+            <element signature="method#setInMemory#0;class#NodeSPlay#0" expanded="false" />
+            <element signature="method#restore#0;class#NodeSPlay#0" expanded="false" />
+            <element signature="method#destroy#0;class#NodeSPlay#0" expanded="false" />
+            <element signature="method#write#0;class#NodeSPlay#0" expanded="false" />
+            <element signature="method#write#1;class#NodeSPlay#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
